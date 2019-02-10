@@ -15,7 +15,8 @@ Zum Glück gibt es aber eine Open Source Gemeinschaft, die diese Monopole knackt
 matplotlib (siehe matplotlib.org) ist eine Python Bibliothek (offiziell als "Package" bezeichnet) für die grafische Darstellung von Daten. Ihr Funktionsumfang bezüglich Datenvisualisierung ist identisch, eher noch größer als der von MATLAB.  
 *Der Rest in Sachen Python ist bekannt:* **Kostenlos, Open Source, plattformunabhänig, selbst auf jedem Raspberry Pi vorhanden.**
 
-> Hinweis: Wenn Sie oben im File Explorer auf eine der beiden Jupyter Notebooks (Endung ".ipnyb") klicken, dann wird lediglich ein Viewer geöffnet, in dem Sie das Notebook nur anschauen können. Möchten Sie die Codebeispiele darin einzeln ausführen und ändern, dann klicken Sie bitte auf das Icon "launch|binder". **Das Starten des Webservice binder kann bis zu einer Minute dauern.**
+> Hinweis: Wenn Sie oben im File Explorer auf eine der beiden Jupyter Notebooks (Endung ".ipnyb") klicken, dann wird lediglich ein Viewer geöffnet, in dem Sie das Notebook nur anschauen können. In diesem Fall erscheinen jedoch die enthaltenen Animationen nicht. Hiefür muss mindestens der Viewer nbviewer verwendet werden.  
+Möchten Sie die Codebeispiele darin einzeln ausführen und ändern, dann klicken Sie bitte auf das Icon "launch|binder". **Das Starten des Webservice binder kann bis zu einer Minute dauern.**
 
 
 
