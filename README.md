@@ -2,6 +2,7 @@
 Using matplotlib.pyplot object oriented: Examples of various plots.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/StefanMack/Matplotlib/master)
+<a href="https://notebooks.azure.com/import/gh/StefanMack/Matplotlib/master"><img src="https://notebooks.azure.com/launch.png" /></a>
 
 ## Plots objektorientiert mit matplotlib.pyplot erstellen
 
