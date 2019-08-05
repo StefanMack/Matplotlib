@@ -5,7 +5,7 @@ Using matplotlib.pyplot object oriented: Examples of various plots.
 
 ## Plots objektorientiert mit matplotlib.pyplot erstellen
 
-Version 10.2.2019, S. Mack
+Version 5.8.2019, S. Mack
 
 Im wissenschaftlich/technischen Bereich sind oft komplexere Darstellungen von (Mess-)Daten oder mathematischer Funktionen gefragt, die mit Tabellenkalkulationsprogrammen wie Excel oder LibreOffice Calc nicht ohne Weiteres erstellt werden können.  
 Zur Datenvisualisierung gibt es spezielle Programme wie Origin (kommerziell) oder Gnuplot (Open Source). In der Wissenschaft verwendet man jedoch meistens MATLAB zur Datenvisualisierung, zumal in dieser Programmiersprache ohnehin meist Daten berechnet, analysiert oder simulierent werden. Somit wurde MATLAB zu einem Quasistandard für das wissenschaftliche Rechnen und das Visualisieren komplexer Daten bzw. Funktionen.  
