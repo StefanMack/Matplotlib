@@ -1,5 +1,4 @@
 # Matplotlib
-Using matplotlib.pyplot object oriented: Examples of various plots.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/StefanMack/Matplotlib/master)
 
